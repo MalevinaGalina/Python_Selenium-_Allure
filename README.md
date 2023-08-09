@@ -1,2 +1,2 @@
 # Python_Selenium_Allure
-Пример автотестов на pytest +selenium+allure
+Пример автотестов на pytest+selenium+allure
